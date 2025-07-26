@@ -1,2 +1,1 @@
-# javascriptproject4
-piano application
+The Piano Application is an interactive web-based musical instrument that simulates a basic piano keyboard. Users can click on white and black keys to hear corresponding musical notes. This project is perfect for beginners learning JavaScript event handling, sound integration using the Web Audio API or audio elements, and basic UI design with CSS. It's both fun and educational, allowing users to play notes directly in the browser.
